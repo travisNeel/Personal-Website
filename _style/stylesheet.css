@@ -1,0 +1,15 @@
+header {
+	background-image: url("Coding-1.jpg");
+	text-align: left;
+	padding: 100px;
+	border-bottom: 1px solid black;
+	border-left: 20px solid black;
+}
+
+body {
+background-color: rgb(90,125,125);
+}
+
+ul li a {
+	text-align: left;
+}
