@@ -1,0 +1,24 @@
+header {
+	background-image: url("Coding-1.jpg");
+	text-align: left;
+	padding: 100px;
+	border-bottom: 1px solid black;
+	border-left: 20px solid black;
+}
+
+body {
+background-color: rgb(90,125,125);
+}
+
+.nav_bar {
+	background: #595959;
+	color: #ffffff;
+	list-style: none;
+	text-align: right;
+  padding: 20px 0 20px 0;
+}
+
+.nav_bar > li {
+	display: inline-block;
+	padding: 0 20px;
+}
